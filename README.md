@@ -3,6 +3,6 @@ Dnat is a command line utility written in go to translate DNA mRNA and tRNA's ni
 - Git clone the repo
 - Then run `go build .` in the directory
 
-<img src="images/image1.png" alt="A description of the image" width="300" heiget="600"/>
+<img src="images/image1.png" alt="A description of the image" width="500" heiget="700"/>
 
 
